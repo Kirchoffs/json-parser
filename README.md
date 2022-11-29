@@ -2,6 +2,7 @@
 
 Reference: https://github.com/miloyip/json-tutorial
 
+## Run
 ```
 >> mkdir build
 >> cd build
@@ -9,12 +10,4 @@ Reference: https://github.com/miloyip/json-tutorial
 >> make
 >> ./leptjson_test
 >> valgrind ./leptjson_test
-```
-
-Example for JSON
-```
-{
-    "Breed": "Dog",
-    "Sound": "Sometimes \\"Wow\\""
-}
 ```
